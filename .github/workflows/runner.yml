@@ -16,7 +16,7 @@ on:
 #2
 env:
   REGISTRY: "registry.digitalocean.com/dcontainer"
-  IMAGE_NAME: "wsa-server"
+  IMAGE_NAME: "d-server"
 
 #3
 jobs:
